@@ -19,7 +19,7 @@
 
 | Сервис        | URL                                                                                      | Примечание                      |
 | ------------- | ---------------------------------------------------------------------------------------- | ------------------------------- |
-| DEV стенд     | [https://dev.unishare.example](https://dev.unishare.space)                               | auto‑deploy                     |
+| DEV стенд     | [https://dev.unishare.space](https://dev.unishare.space)                               | auto‑deploy                     |
 | Jenkins CI/CD | *[http://176.114.90.241:8080/](http://176.114.90.241:8080/)*                             | пайплайны для всех репозиториев |
 | JIRA          | *[https://uniteam31.atlassian.net/jira](https://uniteam31.atlassian.net/jira/your-work)* | задачи и roadmap                |
 
