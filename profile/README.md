@@ -1,4 +1,4 @@
-# UNISHARE — Моно‑README для микрофронтов & бэкендов
+# UNITEAM — UNISHARE DEVELOPERS
 
 ---
 
